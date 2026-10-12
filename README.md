@@ -1,6 +1,6 @@
 # Calculadora Interativa em Java
 
-Uma calculadora de console desenvolvida em Java com foco em arquitetura limpa e usabilidade. O sistema suporta operações matemáticas fundamentais, mantém um histórico dinâmico da sessão e implementa validações rigorosas para evitar interrupções inesperadas na execução.
+Uma calculadora de console desenvolvida com o objetivo prático de aprimorar a lógica de programação e consolidar meu domínio da linguagem Java. O sistema suporta operações matemáticas fundamentais, mantém um histórico dinâmico da sessão e implementa validações rigorosas para evitar interrupções inesperadas na execução.
 
 ## Funcionalidades
 * **Operações Matemáticas:** Adição, subtração, multiplicação e divisão.
