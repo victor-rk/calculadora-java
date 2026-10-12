@@ -22,8 +22,9 @@ O desenvolvimento deste projeto foi pautado em práticas sólidas de engenharia 
   Sistemas de terminal tendem a ser abruptos, despejando blocos de texto instantaneamente. Para contornar isso, foi projetado um controle de fluxo temporal utilizando pausas lógicas na thread de execução (`Thread.sleep`). Esse controle dita o ritmo do console, oferecendo um tempo de leitura confortável para que o usuário processe os resultados e detalhes no histórico antes de ser bombardeado por novos menus de decisão. A legibilidade é reforçada pelo uso do `DecimalFormat`, que higieniza os dados de saída ocultando zeros decimais desnecessários.
 
 ## Tecnologias Utilizadas
-* **Linguagem:** Java (JDK)
+* **Linguagem:** Java
 * **Bibliotecas Base:** 
   * `java.util.Scanner` (I/O)
   * `java.util.List` / `java.util.ArrayList` (Estruturas de Dados)
   * `java.text.DecimalFormat` (Formatação e Sanitização)
+* **IDE:** IntelliJ IDEA
